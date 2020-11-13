@@ -19,7 +19,7 @@ jobs:
       - name: run tests
         run: |
           cd frontend
-          npm run test
+          npm run test --passWithNoTests` to exit with code 0
       - name: build frontend
         run: |
           cd frontend
