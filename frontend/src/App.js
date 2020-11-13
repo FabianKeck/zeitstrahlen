@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function App() {
-  return <div>loremipsum</div>;
+  return <div>Zeitstrahlen</div>;
 }
